@@ -19,14 +19,6 @@ risk score.
 -   Real-time weather integration
 -   End-to-end notebook pipeline
 
-## Installation
-
-``` bash
-git clone https://github.com/<your-username>/TerraScan.git
-cd TerraScan
-pip install -r requirements.txt
-```
-
 ## Usage
 
 Run the Jupyter notebook
