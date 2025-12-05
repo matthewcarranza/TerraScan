@@ -19,16 +19,6 @@ risk score.
 -   Real-time weather integration
 -   End-to-end notebook pipeline
 
-## Project Structure
-
-    TerraScan/
-    │
-    ├── TerraScan.ipynb
-    ├── README.md
-    ├── data/
-    ├── models/
-    └── utils/
-
 ## Installation
 
 ``` bash
@@ -39,13 +29,11 @@ pip install -r requirements.txt
 
 ## Usage
 
-Run the Jupyter notebook:
-
-    TerraScan.ipynb
+Run the Jupyter notebook
 
 ## Future Improvements
 
--   Vision Transformers (ViT)
+-   Enhanced Models
 -   Multi-spectral satellite imagery
 -   Web-based dashboard
 -   Spatial weather grids
